@@ -1,12 +1,24 @@
-# inkluyeme
+# equality
 
-El proyecto de Visual Builder está en el zip equality-1.0.zip
+Hack for Equality
 
+## Overview
 
-Logramos levantar un servidor con Oracle Apex
-Logramos levantar un proyecto con el flujo principal de la app en Oracle Visual Builder
-Logramos incluir esas peticiones al proyecto de Visual Builder
+| Attribute | Details |
+|-----------|---------|
+| **Language** | Dart |
+| **Size** | ~1.8 MB |
+| **Last Updated** | 2021-11-28T23:25:44Z |
 
-![Roller](roller.png)
-![App](app.png)
-![App2](app2.png)
+## Getting Started
+
+```bash
+git clone https://github.com/FernandoMay/equality.git
+cd equality
+flutter pub get
+flutter run
+```
+
+## License
+
+MIT
